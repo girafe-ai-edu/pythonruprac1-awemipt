@@ -11,3 +11,6 @@ height = input()
 
 #Ваш кол
 
+BMI = float(weight)/float(height)**2
+
+print(f"Your BMI is {BMI}")
