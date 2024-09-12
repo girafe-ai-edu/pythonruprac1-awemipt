@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VqYIm5WW)
 # PYTHON 2024
 Рад всех приветствовать на курсе, посвященном программированию на языке Python!
 Ниже вы найдете шпаргалку по работе с GitHub.
