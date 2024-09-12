@@ -6,3 +6,8 @@
 
 @author: Savant
 """
+
+num_4 = int(input("Enter 4 digit number: "))
+if abs(num_4) < 1000 or abs(num_4) > 9999:
+    raise Exception("you entrered not 4 digit number")
+print(sum(list(str(num_4))))
